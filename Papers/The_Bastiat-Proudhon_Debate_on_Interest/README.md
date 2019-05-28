@@ -1,9 +1,11 @@
 # The Bastiat-Proudhon Debate on Interest (1849-1850)
 
 
-## I. [Translators’ Introductions](http://praxeology.net/FB-PJP-DOI-Intro.htm)
+原文目录如下，贡献者可以以章节为单位创建译本文档，通过 `pull request`的方式提交贡献。 
 
-## II. [Capital and Rent](http://praxeology.net/FB-PJP-DOI-II-1.htm) [Bastiat; trans. Anon.]
+### I. [Translators’ Introductions](http://praxeology.net/FB-PJP-DOI-Intro.htm)
+
+### II. [Capital and Rent](http://praxeology.net/FB-PJP-DOI-II-1.htm) [Bastiat; trans. Anon.]
 
 1.  [Introduction](http://praxeology.net/FB-PJP-DOI-II-1.htm)
 2.  [Ought Capital to Produce Interest?](http://praxeology.net/FB-PJP-DOI-II-2.htm)
@@ -13,9 +15,9 @@
 6.  [The Plane](http://praxeology.net/FB-PJP-DOI-II-6.htm)
 7.  [What Regulates Interest?](http://praxeology.net/FB-PJP-DOI-II-7.htm)
 
-## III. [Cursed Money!](http://praxeology.net/FB-PJP-DOI-III.htm) [Bastiat; trans. Anon.]
+### III. [Cursed Money!](http://praxeology.net/FB-PJP-DOI-III.htm) [Bastiat; trans. Anon.]
 
-## IV. [Gratuity of Credit](http://praxeology.net/FB-PJP-DOI-IV-1.htm) [Chevé, Bastiat, Proudhon]
+### IV. [Gratuity of Credit](http://praxeology.net/FB-PJP-DOI-IV-1.htm) [Chevé, Bastiat, Proudhon]
 1.  [Letter 1 – Chevé to Bastiat](http://praxeology.net/FB-PJP-DOI-IV-1.htm) [trans. Roderick T. Long]
   - 2a. [Preface to Letter 2](http://praxeology.net/FB-PJP-DOI-IV-2a.htm) [Proudhon; trans. Benjamin R. Tucker]
   - 2b. [Letter 2 – Bastiat to the Editor of the Voice of the People](http://praxeology.net/FB-PJP-DOI-IV-2b.htm) [trans. Benjamin R. Tucker]
@@ -32,4 +34,4 @@
 13.  [Letter 13 – Proudhon to Bastiat](http://praxeology.net/FB-PJP-DOI-IV-13.htm) [trans. Benjamin R. Tucker]
 14.  [Letter 14 – Bastiat to Proudhon](http://praxeology.net/FB-PJP-DOI-IV-14.htm) [trans. Roderick T. Long]
 
-## V. [Commentary](http://praxeology.net/FB-PJP-DOI-Appx.htm) [R. T. Long] 
+### V. [Commentary](http://praxeology.net/FB-PJP-DOI-Appx.htm) [R. T. Long] 
