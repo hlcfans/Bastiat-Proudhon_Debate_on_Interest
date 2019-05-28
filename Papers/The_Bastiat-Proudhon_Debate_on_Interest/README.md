@@ -1,6 +1,6 @@
 # The Bastiat-Proudhon Debate on Interest (1849-1850)
 
-
+## 原文目录
 原文目录如下，贡献者可以以章节为单位创建译本文档，通过 `pull request`的方式提交贡献。 
 
 ### I. [Translators’ Introductions](http://praxeology.net/FB-PJP-DOI-Intro.htm)
@@ -35,3 +35,6 @@
 14.  [Letter 14 – Bastiat to Proudhon](http://praxeology.net/FB-PJP-DOI-IV-14.htm) [trans. Roderick T. Long]
 
 ### V. [Commentary](http://praxeology.net/FB-PJP-DOI-Appx.htm) [R. T. Long] 
+
+## 译文目录
+
