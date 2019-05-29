@@ -6,6 +6,8 @@
 
 ``本文献希望能翻译成中文版本，方便社区阅读学习，向全社区征集译文贡献者，贡献者可以以章节为单位创建译本文档，通过 `pull request`的方式提交贡献。 ``
 
+``另外你也可以在此处的 issue 中提交贡献:``[翻译征集令issue](https://github.com/hlcfans/Bastiat-Proudhon_Debate_on_Interest/issues/1)
+
 ## 原文目录
 
 ### I. [Translators’ Introductions](http://praxeology.net/FB-PJP-DOI-Intro.htm)
